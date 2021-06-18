@@ -21,3 +21,6 @@ Any addition of feature should be documented
 
 ## Prerequisites 
 <li>C++ IDE and compiler to run the program</li>
+
+
+g++ login.cpp -o login; ./login
